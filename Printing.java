@@ -1,7 +1,6 @@
 public class Printing {
     public static void main(String[] args){
-        //printStars(5);
-        xmasTree(10);
+
     }
     public static void printStars(int size){
          for(int i = 0; i < size; i++){
